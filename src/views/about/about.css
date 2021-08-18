@@ -40,22 +40,50 @@
     transition: 0.2s;
 }
 
+.text-link-mgte,
+.text-link-general {
+    color: #000;
+    font-weight:bold;
+}
+
+.text-link-mgte:hover,
+.text-link-general:hover {
+    text-decoration-line: underline;
+    font-weight:bold;
+    color: #000;
+}
+
+.text-link-fb {
+    font-weight:bold;
+    color: #4267B2;
+}
+
+.text-link-fb:hover {
+    text-decoration-line: underline;
+    font-weight:bold;
+    color: #4267B2;
+}
+
 .text-link-shopify {
     color: #96bf48;
+    font-weight:bold;
 }
 
 .text-link-shopify:hover {
     text-decoration-line: underline;
     color: #96bf48;
+    font-weight:bold;
 }
 
 .text-link-nvidia {
     color: #76b900;
+    font-weight:bold;
 }
 
 .text-link-nvidia:hover {
     text-decoration-line: underline;
     color: #76b900;
+    font-weight:bold;
 }
 
 .image {
