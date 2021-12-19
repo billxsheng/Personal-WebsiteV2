@@ -29,12 +29,6 @@ class Home extends Component {
                             <Row>
                                 <p>Hi. I'm a fourth-year&nbsp;<a target="_blank" styleName="text-link-mgte" href="https://uwaterloo.ca/management-sciences/management-engineering">Management Engineering</a>&nbsp;student at the University of Waterloo.</p>
                             </Row>
-                            {/* <Row>
-                                <p>This past winter, I interned at&nbsp;
-                                    <a target="_blank" styleName="text-link-shopify" href="https://shopify.ca">Shopify</a>&nbsp;as a backend engineer on the&nbsp; 
-                                    <a target="_blank" styleName="text-link-gc" href="https://apps.shopify.com/google?surface_detail=places-to-sell-online-marketplaces&surface_inter_position=1&surface_intra_position=1&surface_type=category">Google Sales Channel</a>&nbsp;team.
-                                </p>
-                            </Row> */}
                             <Row>
                                 <p>This upcoming fall, I will be working at&nbsp;
                                     <a target="_blank" styleName="text-link-fb" href="https://facebook.com">Facebook</a>&nbsp;as a software engineering intern on the&nbsp; 

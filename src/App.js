@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import CSSModules from 'react-css-modules';
 import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
 
-import Home from './views/Home/home';
+import Home from './views/home/home';
 import styles from './App.css';
 import About from './views/about/about';
 
