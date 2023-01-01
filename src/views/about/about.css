@@ -53,15 +53,15 @@
     color: #000;
 }
 
-.text-link-fb {
+.text-link-whatsapp {
     font-weight:bold;
-    color: #4267B2;
+    color: #25D366;
 }
 
-.text-link-fb:hover {
+.text-link-whatsapp:hover {
     text-decoration-line: underline;
     font-weight:bold;
-    color: #4267B2;
+    color: #25D366;
 }
 
 .text-link-shopify {

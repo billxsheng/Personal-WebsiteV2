@@ -27,19 +27,16 @@ class Home extends Component {
                                 <h1>Bill Sheng</h1>
                             </Row>
                             <Row>
-                                <p>Hi. I'm a fourth-year&nbsp;<a target="_blank" styleName="text-link-mgte" href="https://uwaterloo.ca/management-sciences/management-engineering">Management Engineering</a>&nbsp;student at the University of Waterloo.</p>
+                                <p>I'm currently a software engineer at&nbsp;<a target="_blank" styleName="text-link-fb" href="https://www.meta.com/">Meta</a> based in New York City.</p>
                             </Row>
                             <Row>
-                                <p>This upcoming fall, I will be working at&nbsp;
-                                    <a target="_blank" styleName="text-link-fb" href="https://facebook.com">Facebook</a>&nbsp;as a software engineering intern on the&nbsp; 
-                                    <a target="_blank" styleName="text-link-whatsapp" href="https://www.whatsapp.com/?lang=en">WhatsApp Web</a>&nbsp;team.
-                                </p>
+                                <p>I graduated from the University of Waterloo in 2022 with a degree in&nbsp;<a target="_blank" styleName="text-link-mgte" href="https://uwaterloo.ca/management-sciences/management-engineering">Management Engineering</a>.</p>
                             </Row>
                             <Row>
                                 <Link to="/about"><Button styleName="text-link-learn-more">Learn More</Button></Link>
                             </Row>
                             <Row styleName="future-text">
-                                <p>Currently seeking <b>2022 Internship/New Grad opportunities.</b>&nbsp;View my&nbsp;<a target="_blank" href={Resume} styleName="text-link-resume">resume</a>.</p>
+                                <p>View my&nbsp;<a target="_blank" href={Resume} styleName="text-link-resume">resume</a>.</p>
                             </Row>
                             <Row styleName="links-row">
                                 <a target="_blank" href={Resume}><FileEarmarkFill /></a>

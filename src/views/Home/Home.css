@@ -30,18 +30,6 @@
     color: black;
 }
 
-.text-link-shopify {
-    color: #96bf48;
-    font-weight:bold;
-
-}
-
-.text-link-shopify:hover {
-    text-decoration-line: underline;
-    font-weight:bold;
-    color: #96bf48;
-}
-
 .text-link-mgte {
     color: #000;
     font-weight:bold;
@@ -53,37 +41,15 @@
     color: #000;
 }
 
-.text-link-gc {
-    color: #4285f4;
-    font-weight:bold;
-}
-
-.text-link-gc:hover {
-    text-decoration-line: underline;
-    font-weight:bold;
-    color: #4285f4;
-}
-
 .text-link-fb {
     font-weight:bold;
-    color: #4267B2;
+    color: #0668E1;
 }
 
 .text-link-fb:hover {
     text-decoration-line: underline;
     font-weight:bold;
-    color: #4267B2;
-}
-
-.text-link-whatsapp {
-    font-weight:bold;
-    color: #25D366;
-}
-
-.text-link-whatsapp:hover {
-    text-decoration-line: underline;
-    font-weight:bold;
-    color: #25D366;
+    color: #0668E1;
 }
 
 .text-link-learn-more {
@@ -93,7 +59,7 @@
 }
 
 .future-text {
-    margin-top: 60px;
+    margin-top: 40px;
 }
 
 .links-row a{
