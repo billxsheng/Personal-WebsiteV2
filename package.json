@@ -1,7 +1,7 @@
 {
   "name": "pwebsite",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://billxsheng.github.io/billxsheng",
   "dependencies": {
     "animate.css": "^3.7.0",
