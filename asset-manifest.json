@@ -1,9 +1,9 @@
 {
-  "main.js": "/billxsheng/static/js/main.8af9d011.js",
-  "main.css": "/billxsheng/static/css/main.e96b1e1ab504544bc466.css",
-  "main.js.map": "/billxsheng/static/js/main.8af9d011.js.map",
-  "main.css.map": "/billxsheng/static/css/main.e96b1e1ab504544bc466.css.map",
-  "index.html": "/billxsheng/index.html",
-  "static/media/home-pic.jpg": "/billxsheng/static/media/home-pic.9824fde6.jpg",
-  "static/media/resume.pdf": "/billxsheng/static/media/resume.5904fcad.pdf"
+  "main.js": "/static/js/main.8bbd29bd.js",
+  "main.css": "/static/css/main.e96b1e1ab504544bc466.css",
+  "main.js.map": "/static/js/main.8bbd29bd.js.map",
+  "main.css.map": "/static/css/main.e96b1e1ab504544bc466.css.map",
+  "index.html": "/index.html",
+  "static/media/home-pic.jpg": "/static/media/home-pic.9824fde6.jpg",
+  "static/media/resume.pdf": "/static/media/resume.5904fcad.pdf"
 }
