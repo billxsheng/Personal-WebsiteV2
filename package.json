@@ -2,7 +2,7 @@
   "name": "pwebsite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://billsheng.com",
+  "homepage": "/",
   "dependencies": {
     "animate.css": "^3.7.0",
     "autoprefixer": "7.1.6",
